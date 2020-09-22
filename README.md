@@ -1,3 +1,3 @@
-# woah-startup
-startup of the century
+# epico-startup
+nothin special
 https://aishaamir.github.io/epico-startup/.
